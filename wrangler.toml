@@ -8,5 +8,5 @@ BOT_USERNAME = "replace_with_bot_username"
 [[d1_databases]]
 binding = "DB"
 database_name = "byte-forest-db"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_id = "6546e180-41ae-4863-af16-bfc6ccad7127"
 migrations_dir = "migrations"
