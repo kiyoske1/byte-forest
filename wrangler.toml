@@ -1,0 +1,12 @@
+name = "byte-forest-bot"
+main = "src/index.js"
+compatibility_date = "2026-11-20"
+
+[vars]
+BOT_USERNAME = "replace_with_bot_username"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "byte-forest-db"
+database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+migrations_dir = "migrations"
